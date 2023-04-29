@@ -26,3 +26,5 @@ print(f"📍 Address: {order[1]}")
 print(f"📋 list of orders: ")
 for good in order[2]:
     print(f"\t• {goods[good]} ")
+
+
